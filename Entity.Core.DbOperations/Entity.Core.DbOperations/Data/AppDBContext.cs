@@ -8,5 +8,6 @@ namespace Entity.Core.DbOperations.Data
         {
 
         }
+
     }
 }
